@@ -1,4 +1,4 @@
-package com.ai.rest;
+package com.ai.service;
 
 
 import reactor.core.publisher.Flux;
